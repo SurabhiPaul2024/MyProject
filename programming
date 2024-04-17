@@ -1,0 +1,5 @@
+marks=int(input("Enter your roll number"))
+if(marks>60):
+    print("You are eligible to get admission")
+else:
+    print("Not eligble")
